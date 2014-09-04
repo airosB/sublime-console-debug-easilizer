@@ -1,7 +1,7 @@
 sublime-console-debug-easilizer
 ===============================
 
-A SublimeText3 plugin: Smarter shortcut for `console.log();` or `var_dump();` or something.
+**A SublimeText3 plugin**: Smarter shortcut for `console.log();` or `var_dump();` or something.
 
 ##Installation & Usage
 1. Copy `ConsoleDebugEasilizer.py` to your SublimeText3's Packages directory.
